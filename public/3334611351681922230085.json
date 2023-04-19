@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532186176201",
+    "project_id": "twibbon-unik",
+    "storage_bucket": "twibbon-unik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532186176201:android:979467bc66a7506b14cb18",
+        "android_client_info": {
+          "package_name": "com.avivizain.twibbonunik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532186176201-6uogrdodcfudpvj271480429dcnjcfpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEXPwYb0p-o4A8gSf25aTydh-_-ls4QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532186176201-6uogrdodcfudpvj271480429dcnjcfpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
